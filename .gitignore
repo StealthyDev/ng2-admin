@@ -1,4 +1,9 @@
+# IntelliJ files
+*.iml
+
 # @AngularClass
+src/**/*.js
+src/**/*.map
 
 # Logs
 logs
